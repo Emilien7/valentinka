@@ -3,12 +3,16 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  background-color: #242424;
   color: white;
+}
+
+body {
+  background-color: #242424;
 }
 
 button {
   background-color: #1a1a1a;
+  color: white;
 }
 
 .logo {
